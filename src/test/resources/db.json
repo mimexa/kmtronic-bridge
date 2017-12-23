@@ -1,0 +1,50 @@
+{
+	"FF0101": {
+		"value": "Relay 1 ON"
+	},
+	"FF0201": {
+		"value": "Relay 2 ON"
+	},
+	"FF0301": {
+		"value": "Relay 3 ON"
+	},
+	"FF0401": {
+		"value": "Relay 4 ON"
+	},
+	"FF0501": {
+		"value": "Relay 5 ON"
+	},
+	"FF0601": {
+		"value": "Relay 6 ON"
+	},
+	"FF0701": {
+		"value": "Relay 7 ON"
+	},
+	"FF0801": {
+		"value": "Relay 8 ON"
+	},
+	"FF0100": {
+		"value": "Relay 1 OFF"
+	},
+	"FF0200": {
+		"value": "Relay 2 OFF"
+	},
+	"FF0300": {
+		"value": "Relay 3 OFF"
+	},
+	"FF0400": {
+		"value": "Relay 4 OFF"
+	},
+	"FF0500": {
+		"value": "Relay 5 OFF"
+	},
+	"FF0600": {
+		"value": "Relay 6 OFF"
+	},
+	"FF0700": {
+		"value": "Relay 7 OFF"
+	},
+	"FF0800": {
+		"value": "Relay 8 OFF"
+	}
+}

@@ -1,0 +1,14 @@
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\domain\Credentials.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\security\WebSecurity.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\utils\Constants.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\domain\Relay.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\security\JWTAuthenticationFilter.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\controllers\FileController.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\controllers\RelayController.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\security\JWTAuthorizationFilter.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\domain\SimpleBean.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\controllers\SettingsController.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\domain\User.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\security\UserDetailsServiceImpl.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\Application.java
+C:\WS\kmtronic-bridge\kmtronic-bridge\src\main\java\lu\maxime\kmtronicbridge\domain\Settings.java

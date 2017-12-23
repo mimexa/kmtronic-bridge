@@ -1,0 +1,14 @@
+lu\maxime\kmtronicbridge\security\JWTAuthorizationFilter.class
+lu\maxime\kmtronicbridge\controllers\SettingsController.class
+lu\maxime\kmtronicbridge\domain\Settings.class
+lu\maxime\kmtronicbridge\utils\Constants.class
+lu\maxime\kmtronicbridge\domain\SimpleBean.class
+lu\maxime\kmtronicbridge\Application.class
+lu\maxime\kmtronicbridge\controllers\RelayController.class
+lu\maxime\kmtronicbridge\security\JWTAuthenticationFilter.class
+lu\maxime\kmtronicbridge\controllers\FileController.class
+lu\maxime\kmtronicbridge\domain\User.class
+lu\maxime\kmtronicbridge\security\UserDetailsServiceImpl.class
+lu\maxime\kmtronicbridge\security\WebSecurity.class
+lu\maxime\kmtronicbridge\domain\Credentials.class
+lu\maxime\kmtronicbridge\domain\Relay.class
